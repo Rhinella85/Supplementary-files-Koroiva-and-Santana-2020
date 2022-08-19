@@ -1,0 +1,279 @@
+"Table S5. List of species (""All sequences"" datasets) for each gene with indication of the presence of barcoding gap or overlapping barcode clusters."														
+12s				16s				COI				CytB		
+Species		Interspecific and intraspecific variability		Species		Interspecific and intraspecific variability		Species		Interspecific and intraspecific variability		Species		Interspecific and intraspecific variability
+ Acris	crepitans              	Barcoding gap		 Acris	crepitans              	Barcoding gap		 Acris	crepitans             	Barcoding gap		 Acris	crepitans           	Barcoding gap
+ Acris	gryllus                	Barcoding gap		 Acris	gryllus                	Barcoding gap		 Acris	gryllus               	Barcoding gap		 Acris	gryllus             	Barcoding gap
+ Aplastodiscus	albofrenatus   	Overlapping barcode		 Aparasphenodon	brunoi        	Barcoding gap		 Aparasphenodon	brunoi       	Barcoding gap		 Boana	albomarginata       	Barcoding gap
+ Aplastodiscus	albosignatus   	Overlapping barcode		 Aplastodiscus	albosignatus   	Overlapping barcode		 Aplastodiscus	albosignatus  	Overlapping barcode		 Bokermannohyla	alvarengai 	Barcoding gap
+ Aplastodiscus	arildae        	Overlapping barcode		 Aplastodiscus	arildae        	Overlapping barcode		 Aplastodiscus	arildae       	Barcoding gap		 Bokermannohyla	saxicola   	Barcoding gap
+ Aplastodiscus	cavicola       	Overlapping barcode		 Aplastodiscus	cavicola       	Overlapping barcode		 Aplastodiscus	ehrhardti     	Barcoding gap		 Dendropsophus	branneri    	Barcoding gap
+ Aplastodiscus	cochranae      	Barcoding gap		 Aplastodiscus	cochranae      	Overlapping barcode		 Aplastodiscus	eugenioi      	Overlapping barcode		 Dendropsophus	molitor     	Barcoding gap
+ Aplastodiscus	ehrhardti      	Barcoding gap		 Aplastodiscus	ehrhardti      	Barcoding gap		 Aplastodiscus	leucopygius   	Barcoding gap		 Dryophytes	andersonii     	Barcoding gap
+ Aplastodiscus	eugenioi       	Barcoding gap		 Aplastodiscus	eugenioi       	Barcoding gap		 Aplastodiscus	perviridis    	Barcoding gap		 Dryophytes	avivoca        	Overlapping barcode
+ Aplastodiscus	ibirapitanga   	Barcoding gap		 Aplastodiscus	ibirapitanga   	Barcoding gap		 Aplastodiscus	weygoldti     	Overlapping barcode		 Dryophytes	chrysoscelis   	Overlapping barcode
+ Aplastodiscus	leucopygius    	Barcoding gap		 Aplastodiscus	leucopygius    	Barcoding gap		 Boana	albomarginata         	Barcoding gap		 Dryophytes	cinereus       	Barcoding gap
+ Aplastodiscus	perviridis     	Barcoding gap		 Aplastodiscus	lutzorum       	Barcoding gap		 Boana	albopunctata          	Barcoding gap		 Dryophytes	eximius        	Barcoding gap
+ Aplastodiscus	weygoldti      	Overlapping barcode		 Aplastodiscus	perviridis     	Overlapping barcode		 Boana	appendiculata         	Overlapping barcode		 Dryophytes	femoralis      	Barcoding gap
+ Atlantihyla	spinipollex      	Barcoding gap		 Aplastodiscus	weygoldti      	Overlapping barcode		 Boana	bischoffi             	Barcoding gap		 Dryophytes	immaculatus    	Overlapping barcode
+ Boana	aguilari               	Barcoding gap		 Atlantihyla	spinipollex      	Barcoding gap		 Boana	boans                 	Overlapping barcode		 Dryophytes	japonicus      	Overlapping barcode
+ Boana	albomarginata          	Barcoding gap		 Boana	aguilari               	Barcoding gap		 Boana	cambui                	Barcoding gap		 Dryophytes	versicolor     	Overlapping barcode
+ Boana	benitezi               	Barcoding gap		 Boana	albopunctata           	Overlapping barcode		 Boana	cinerascens           	Overlapping barcode		 Hyla	annectans            	Overlapping barcode
+ Boana	boans                  	Barcoding gap		 Boana	balzani                	Overlapping barcode		 Boana	crepitans             	Overlapping barcode		 Hyla	arborea              	Barcoding gap
+ Boana	caingua                	Barcoding gap		 Boana	boans                  	Overlapping barcode		 Boana	exastis               	Barcoding gap		 Hyla	carthaginiensis      	Barcoding gap
+ Boana	calcarata              	Barcoding gap		 Boana	caingua                	Barcoding gap		 Boana	faber                 	Barcoding gap		 Hyla	chinensis            	Barcoding gap
+ Boana	cordobae               	Barcoding gap		 Boana	calcarata              	Overlapping barcode		 Boana	geographica           	Overlapping barcode		 Hyla	intermedia           	Barcoding gap
+ Boana	crepitans              	Overlapping barcode		 Boana	callipleura            	Overlapping barcode		 Boana	icamiaba              	Barcoding gap		 Hyla	meridionalis         	Overlapping barcode
+ Boana	faber                  	Barcoding gap		 Boana	cinerascens            	Overlapping barcode		 Boana	lanciformis           	Barcoding gap		 Hyla	molleri              	Overlapping barcode
+ Boana	geographica            	Overlapping barcode		 Boana	cordobae               	Barcoding gap		 Boana	lundii                	Barcoding gap		 Hyla	orientalis           	Barcoding gap
+ Boana	guentheri              	Barcoding gap		 Boana	crepitans              	Barcoding gap		 Boana	multifasciata         	Barcoding gap		 Hyla	sarda                	Barcoding gap
+ Boana	heilprini              	Barcoding gap		 Boana	diabolica              	Barcoding gap		 Boana	nigra                 	Barcoding gap		 Hyla	savignyi             	Overlapping barcode
+ Boana	joaquini               	Barcoding gap		 Boana	faber                  	Overlapping barcode		 Boana	nympha                	Barcoding gap		 Hyla	tsinlingensis        	Overlapping barcode
+ Boana	lanciformis            	Barcoding gap		 Boana	fasciata               	Barcoding gap		 Boana	pardalis              	Barcoding gap		 Osteopilus	septentrionalis	Barcoding gap
+ Boana	lundii                 	Barcoding gap		 Boana	geographica            	Overlapping barcode		 Boana	pellucens             	Barcoding gap		 Pseudacris	brachyphona    	Overlapping barcode
+ Boana	marianitae             	Barcoding gap		 Boana	gladiator              	Overlapping barcode		 Boana	picturata             	Barcoding gap		 Pseudacris	brimleyi       	Barcoding gap
+ Boana	melanopleura           	Barcoding gap		 Boana	guentheri              	Barcoding gap		 Boana	polytaenia            	Barcoding gap		 Pseudacris	cadaverina     	Overlapping barcode
+ Boana	multifasciata          	Barcoding gap		 Boana	joaquini               	Barcoding gap		 Boana	prasina               	Overlapping barcode		 Pseudacris	clarkii        	Overlapping barcode
+ Boana	pardalis               	Barcoding gap		 Boana	lanciformis            	Barcoding gap		 Boana	pugnax                	Barcoding gap		 Pseudacris	crucifer       	Barcoding gap
+ Boana	pellucens              	Barcoding gap		 Boana	lundii                 	Overlapping barcode		 Boana	punctata              	Barcoding gap		 Pseudacris	feriarum       	Barcoding gap
+ Boana	picturata              	Barcoding gap		 Boana	marianitae             	Barcoding gap		 Boana	raniceps              	Barcoding gap		 Pseudacris	fouquettei     	Barcoding gap
+ Boana	polytaenia             	Barcoding gap		 Boana	melanopleura           	Barcoding gap		 Boana	rosenbergi            	Barcoding gap		 Pseudacris	hypochondriaca 	Overlapping barcode
+ Boana	pugnax                 	Barcoding gap		 Boana	multifasciata          	Barcoding gap		 Boana	rubracyla             	Barcoding gap		 Pseudacris	illinoensis    	Barcoding gap
+ Boana	pulchella              	Barcoding gap		 Boana	palaestes              	Barcoding gap		 Boana	rufitela              	Barcoding gap		 Pseudacris	kalmi          	Barcoding gap
+ Boana	raniceps               	Barcoding gap		 Boana	pardalis               	Barcoding gap		 Boana	semilineata           	Overlapping barcode		 Pseudacris	maculata       	Overlapping barcode
+ Boana	riojana                	Barcoding gap		 Boana	pellucens              	Barcoding gap		 Boana	ventrimaculata        	Barcoding gap		 Pseudacris	nigrita        	Barcoding gap
+ Boana	rosenbergi             	Barcoding gap		 Boana	polytaenia             	Overlapping barcode		 Boana	wavrini               	Overlapping barcode		 Pseudacris	ocularis       	Barcoding gap
+ Boana	rufitela               	Overlapping barcode		 Boana	pugnax                 	Barcoding gap		 Boana	xerophylla            	Overlapping barcode		 Pseudacris	ornata         	Barcoding gap
+ Boana	semiguttata            	Barcoding gap		 Boana	pulchella              	Barcoding gap		 Bokermannohyla	alvarengai   	Barcoding gap		 Pseudacris	regilla        	Overlapping barcode
+ Boana	semilineata            	Barcoding gap		 Boana	punctata               	Barcoding gap		 Bokermannohyla	circumdata   	Barcoding gap		 Pseudacris	sierra         	Overlapping barcode
+ Boana	sibleszi               	Barcoding gap		 Boana	raniceps               	Barcoding gap		 Bokermannohyla	saxicola     	Barcoding gap		 Pseudacris	streckeri      	Overlapping barcode
+ Boana	xerophylla             	Overlapping barcode		 Boana	riojana                	Overlapping barcode		 Dendropsophus	arndti        	Barcoding gap		 Pseudacris	triseriata     	Barcoding gap
+ Bokermannohyla	alvarengai    	Barcoding gap		 Boana	rufitela               	Barcoding gap		 Dendropsophus	berthalutzae  	Barcoding gap		 Pseudis	tocantins         	Barcoding gap
+ Bokermannohyla	hylax         	Barcoding gap		 Boana	semiguttata            	Barcoding gap		 Dendropsophus	bifurcus      	Barcoding gap		 Sarcohyla	bistincta       	Barcoding gap
+ Bromeliohyla	bromeliacia     	Barcoding gap		 Boana	semilineata            	Barcoding gap		 Dendropsophus	brevifrons    	Barcoding gap		 Scinax	cruentomma         	Barcoding gap
+ Charadrahyla	nephila         	Barcoding gap		 Boana	stellae                	Barcoding gap		 Dendropsophus	carnifex      	Barcoding gap		 Scinax	nebulosus          	Barcoding gap
+ Charadrahyla	taeniopus       	Barcoding gap		 Boana	wavrini                	Barcoding gap		 Dendropsophus	ebraccatus    	Overlapping barcode		 Scinax	quinquefasciatus   	Barcoding gap
+ Dendropsophus	arndti         	Barcoding gap		 Bokermannohyla	alvarengai    	Barcoding gap		 Dendropsophus	kamagarini    	Barcoding gap		 Scinax	ruber              	Overlapping barcode
+ Dendropsophus	berthalutzae   	Overlapping barcode		 Bokermannohyla	circumdata    	Overlapping barcode		 Dendropsophus	koechlini     	Barcoding gap		 Scinax	xsignatus	Overlapping barcode
+ Dendropsophus	bifurcus       	Overlapping barcode		 Bokermannohyla	martinsi      	Barcoding gap		 Dendropsophus	kubricki      	Barcoding gap				
+ Dendropsophus	bokermanni     	Overlapping barcode		 Bokermannohyla	nanuzae       	Overlapping barcode		 Dendropsophus	leucophyllatus	Barcoding gap				
+ Dendropsophus	brevifrons     	Overlapping barcode		 Bromeliohyla	bromeliacia     	Barcoding gap		 Dendropsophus	mathiassoni   	Overlapping barcode				
+ Dendropsophus	bromeliaceus   	Barcoding gap		 Bromeliohyla	melacaena       	Barcoding gap		 Dendropsophus	microcephalus 	Barcoding gap				
+ Dendropsophus	carnifex       	Barcoding gap		 Charadrahyla	juanitae        	Barcoding gap		 Dendropsophus	microps       	Barcoding gap				
+ Dendropsophus	counani        	Barcoding gap		 Dendropsophus	arndti         	Overlapping barcode		 Dendropsophus	minutus       	Barcoding gap				
+ Dendropsophus	ebraccatus     	Overlapping barcode		 Dendropsophus	berthalutzae   	Overlapping barcode		 Dendropsophus	nanus         	Barcoding gap				
+ Dendropsophus	elegans        	Barcoding gap		 Dendropsophus	bifurcus       	Overlapping barcode		 Dendropsophus	parviceps     	Barcoding gap				
+ Dendropsophus	giesleri       	Barcoding gap		 Dendropsophus	bipunctatus    	Barcoding gap		 Dendropsophus	reticulatus   	Barcoding gap				
+ Dendropsophus	kamagarini     	Overlapping barcode		 Dendropsophus	bokermanni     	Overlapping barcode		 Dendropsophus	rhodopeplus   	Barcoding gap				
+ Dendropsophus	koechlini      	Barcoding gap		 Dendropsophus	brevifrons     	Overlapping barcode		 Dendropsophus	ruschii       	Barcoding gap				
+ Dendropsophus	kubricki       	Barcoding gap		 Dendropsophus	bromeliaceus   	Barcoding gap		 Dendropsophus	sarayacuensis 	Barcoding gap				
+ Dendropsophus	leucophyllatus 	Overlapping barcode		 Dendropsophus	cachimbo       	Overlapping barcode		 Dendropsophus	subocularis   	Barcoding gap				
+ Dendropsophus	luddeckei      	Overlapping barcode		 Dendropsophus	carnifex       	Barcoding gap		 Dendropsophus	triangulum    	Barcoding gap				
+ Dendropsophus	manonegra      	Barcoding gap		 Dendropsophus	counani        	Barcoding gap		 Dendropsophus	vraemi        	Barcoding gap				
+ Dendropsophus	mapinguari     	Barcoding gap		 Dendropsophus	ebraccatus     	Overlapping barcode		 Dryaderces	pearsoni         	Barcoding gap				
+ Dendropsophus	marmoratus     	Barcoding gap		 Dendropsophus	elegans        	Overlapping barcode		 Dryophytes	andersonii       	Barcoding gap				
+ Dendropsophus	microcephalus  	Barcoding gap		 Dendropsophus	elianeae       	Overlapping barcode		 Dryophytes	chrysoscelis     	Barcoding gap				
+ Dendropsophus	microps        	Overlapping barcode		 Dendropsophus	gaucheri       	Barcoding gap		 Dryophytes	cinereus         	Overlapping barcode				
+ Dendropsophus	minutus        	Overlapping barcode		 Dendropsophus	juliani        	Barcoding gap		 Dryophytes	femoralis        	Barcoding gap				
+ Dendropsophus	molitor        	Overlapping barcode		 Dendropsophus	leali          	Overlapping barcode		 Dryophytes	gratiosus        	Barcoding gap				
+ Dendropsophus	nanus          	Barcoding gap		 Dendropsophus	leucophyllatus 	Overlapping barcode		 Dryophytes	immaculatus      	Overlapping barcode				
+ Dendropsophus	nekronastes    	Barcoding gap		 Dendropsophus	luddeckei      	Overlapping barcode		 Dryophytes	japonicus        	Overlapping barcode				
+ Dendropsophus	parviceps      	Overlapping barcode		 Dendropsophus	manonegra      	Barcoding gap		 Dryophytes	squirellus       	Overlapping barcode				
+ Dendropsophus	reticulatus    	Overlapping barcode		 Dendropsophus	mapinguari     	Barcoding gap		 Dryophytes	versicolor       	Overlapping barcode				
+ Dendropsophus	rhodopeplus    	Barcoding gap		 Dendropsophus	mathiassoni    	Barcoding gap		 Ecnomiohyla	miliaria        	Barcoding gap				
+ Dendropsophus	sarayacuensis  	Barcoding gap		 Dendropsophus	melanargyreus  	Overlapping barcode		 Hyla	annectans              	Barcoding gap				
+ Dendropsophus	triangulum     	Overlapping barcode		 Dendropsophus	microcephalus  	Barcoding gap		 Hyla	arborea                	Barcoding gap				
+ Dendropsophus	vraemi         	Barcoding gap		 Dendropsophus	microps        	Barcoding gap		 Hyla	chinensis              	Overlapping barcode				
+ Dryaderces	pearsoni          	Overlapping barcode		 Dendropsophus	minutus        	Barcoding gap		 Hyla	intermedia             	Overlapping barcode				
+ Dryophytes	andersonii        	Barcoding gap		 Dendropsophus	molitor        	Barcoding gap		 Hyla	meridionalis           	Barcoding gap				
+ Dryophytes	arenicolor        	Overlapping barcode		 Dendropsophus	nanus          	Barcoding gap		 Hyla	orientalis             	Barcoding gap				
+ Dryophytes	avivoca           	Overlapping barcode		 Dendropsophus	nekronastes    	Barcoding gap		 Hyla	tsinlingensis          	Overlapping barcode				
+ Dryophytes	chrysoscelis      	Overlapping barcode		 Dendropsophus	parviceps      	Barcoding gap		 Hyloscirtus	colymba         	Barcoding gap				
+ Dryophytes	cinereus          	Barcoding gap		 Dendropsophus	reichlei       	Barcoding gap		 Hyloscirtus	palmeri         	Barcoding gap				
+ Dryophytes	euphorbiaceus     	Barcoding gap		 Dendropsophus	reticulatus    	Overlapping barcode		 Itapotihyla	langsdorffii    	Barcoding gap				
+ Dryophytes	eximius           	Overlapping barcode		 Dendropsophus	rhodopeplus    	Barcoding gap		 Julianus	uruguayus          	Barcoding gap				
+ Dryophytes	femoralis         	Barcoding gap		 Dendropsophus	rubicundulus   	Overlapping barcode		 Megastomatohyla	pellita     	Barcoding gap				
+ Dryophytes	gratiosus         	Overlapping barcode		 Dendropsophus	salli          	Barcoding gap		 Ololygon	agilis             	Overlapping barcode				
+ Dryophytes	immaculatus       	Overlapping barcode		 Dendropsophus	sarayacuensis  	Barcoding gap		 Ololygon	argyreornata       	Barcoding gap				
+ Dryophytes	japonicus         	Overlapping barcode		 Dendropsophus	seniculus      	Barcoding gap		 Ololygon	longilinea         	Barcoding gap				
+ Dryophytes	plicatus          	Overlapping barcode		 Dendropsophus	subocularis    	Barcoding gap		 Ololygon	obtriangulata      	Barcoding gap				
+ Dryophytes	squirellus        	Barcoding gap		 Dendropsophus	triangulum     	Overlapping barcode		 Osteocephalus	buckleyi      	Overlapping barcode				
+ Dryophytes	versicolor        	Overlapping barcode		 Dendropsophus	tritaeniatus   	Barcoding gap		 Osteocephalus	cabrerai      	Barcoding gap				
+ Dryophytes	walkeri           	Overlapping barcode		 Dendropsophus	vraemi         	Barcoding gap		 Osteocephalus	cannatellai   	Overlapping barcode				
+ Dryophytes	wrightorum        	Overlapping barcode		 Dryaderces	pearsoni          	Barcoding gap		 Osteocephalus	castaneicola  	Barcoding gap				
+ Duellmanohyla	rufioculis     	Barcoding gap		 Dryophytes	andersonii        	Barcoding gap		 Osteocephalus	deridens      	Barcoding gap				
+ Duellmanohyla	salvavida      	Barcoding gap		 Dryophytes	arenicolor        	Overlapping barcode		 Osteocephalus	festae        	Barcoding gap				
+ Duellmanohyla	soralia        	Barcoding gap		 Dryophytes	avivoca           	Overlapping barcode		 Osteocephalus	helenae       	Barcoding gap				
+ Ecnomiohyla	miliaria         	Overlapping barcode		 Dryophytes	chrysoscelis      	Overlapping barcode		 Osteocephalus	leprieurii    	Overlapping barcode				
+ Ecnomiohyla	minera           	Overlapping barcode		 Dryophytes	cinereus          	Barcoding gap		 Osteocephalus	mutabor       	Barcoding gap				
+ Exerodonta	chimalapa         	Barcoding gap		 Dryophytes	euphorbiaceus     	Overlapping barcode		 Osteocephalus	planiceps     	Overlapping barcode				
+ Exerodonta	melanomma         	Overlapping barcode		 Dryophytes	eximius           	Overlapping barcode		 Osteocephalus	sangay        	Barcoding gap				
+ Exerodonta	perkinsi          	Barcoding gap		 Dryophytes	femoralis         	Barcoding gap		 Osteocephalus	taurinus      	Barcoding gap				
+ Exerodonta	xera              	Barcoding gap		 Dryophytes	gratiosus         	Barcoding gap		 Osteocephalus	verruciger    	Overlapping barcode				
+ Hyla	annectans               	Overlapping barcode		 Dryophytes	immaculatus       	Overlapping barcode		 Osteocephalus	yasuni        	Overlapping barcode				
+ Hyla	arborea                 	Barcoding gap		 Dryophytes	japonicus         	Overlapping barcode		 Osteopilus	septentrionalis  	Barcoding gap				
+ Hyla	chinensis               	Barcoding gap		 Dryophytes	squirellus        	Barcoding gap		 Phasmahyla	cochranae        	Barcoding gap				
+ Hyla	felixarabica            	Overlapping barcode		 Dryophytes	versicolor        	Overlapping barcode		 Phyllodytes	luteolus        	Barcoding gap				
+ Hyla	meridionalis            	Barcoding gap		 Dryophytes	walkeri           	Overlapping barcode		 Pseudacris	brachyphona      	Overlapping barcode				
+ Hyla	molleri                 	Barcoding gap		 Dryophytes	wrightorum        	Overlapping barcode		 Pseudacris	brimleyi         	Barcoding gap				
+ Hyla	orientalis              	Barcoding gap		 Duellmanohyla	rufioculis     	Barcoding gap		 Pseudacris	crucifer         	Barcoding gap				
+ Hyla	sanchiangensis          	Barcoding gap		 Duellmanohyla	salvavida      	Barcoding gap		 Pseudacris	feriarum         	Overlapping barcode				
+ Hyla	savignyi                	Overlapping barcode		 Duellmanohyla	soralia        	Barcoding gap		 Pseudacris	fouquettei       	Barcoding gap				
+ Hyla	tsinlingensis           	Overlapping barcode		 Ecnomiohyla	fimbrimembra     	Barcoding gap		 Pseudacris	hypochondriaca   	Barcoding gap				
+ Hyla	zhaopingensis           	Barcoding gap		 Ecnomiohyla	miliaria         	Barcoding gap		 Pseudacris	illinoensis      	Barcoding gap				
+ Hyloscirtus	alytolylax       	Barcoding gap		 Ecnomiohyla	rabborum         	Barcoding gap		 Pseudacris	kalmi            	Barcoding gap				
+ Hyloscirtus	armatus          	Barcoding gap		 Ecnomiohyla	veraguensis      	Barcoding gap		 Pseudacris	maculata         	Overlapping barcode				
+ Hyloscirtus	colymba          	Barcoding gap		 Exerodonta	sumichrasti       	Barcoding gap		 Pseudacris	nigrita          	Barcoding gap				
+ Hyloscirtus	condor           	Barcoding gap		 Hyla	annectans               	Overlapping barcode		 Pseudacris	ocularis         	Barcoding gap				
+ Hyloscirtus	criptico         	Barcoding gap		 Hyla	arborea                 	Barcoding gap		 Pseudacris	ornata           	Barcoding gap				
+ Hyloscirtus	larinopygion     	Barcoding gap		 Hyla	chinensis               	Barcoding gap		 Pseudacris	regilla          	Overlapping barcode				
+ Hyloscirtus	lindae           	Overlapping barcode		 Hyla	felixarabica            	Overlapping barcode		 Pseudacris	sierra           	Overlapping barcode				
+ Hyloscirtus	pacha            	Barcoding gap		 Hyla	intermedia              	Overlapping barcode		 Pseudacris	streckeri        	Overlapping barcode				
+ Hyloscirtus	palmeri          	Barcoding gap		 Hyla	meridionalis            	Barcoding gap		 Pseudacris	triseriata       	Overlapping barcode				
+ Hyloscirtus	pantostictus     	Overlapping barcode		 Hyla	molleri                 	Overlapping barcode		 Pseudis	cardosoi            	Barcoding gap				
+ Hyloscirtus	phyllognathus    	Barcoding gap		 Hyla	orientalis              	Overlapping barcode		 Pseudis	fusca               	Barcoding gap				
+ Hyloscirtus	princecharlesi   	Barcoding gap		 Hyla	sarda                   	Barcoding gap		 Scinax	alter                	Barcoding gap				
+ Hyloscirtus	psarolaimus      	Barcoding gap		 Hyla	savignyi                	Overlapping barcode		 Scinax	crospedospilus       	Barcoding gap				
+ Hyloscirtus	ptychodactylus   	Barcoding gap		 Hyla	tsinlingensis           	Overlapping barcode		 Scinax	eurydice             	Barcoding gap				
+ Hyloscirtus	staufferorum     	Barcoding gap		 Hyloscirtus	alytolylax       	Barcoding gap		 Scinax	fuscomarginatus      	Overlapping barcode				
+ Hyloscirtus	tapichalaca      	Barcoding gap		 Hyloscirtus	colymba          	Barcoding gap		 Scinax	fuscovarius          	Overlapping barcode				
+ Hyloscirtus	tigrinus         	Barcoding gap		 Hyloscirtus	condor           	Barcoding gap		 Scinax	madeirae             	Barcoding gap				
+ Isthmohyla	debilis           	Barcoding gap		 Hyloscirtus	criptico         	Barcoding gap		 Scinax	perereca             	Overlapping barcode				
+ Isthmohyla	graceae           	Barcoding gap		 Hyloscirtus	jahni            	Barcoding gap		 Scinax	quinquefasciatus     	Barcoding gap				
+ Isthmohyla	lancasteri        	Barcoding gap		 Hyloscirtus	larinopygion     	Barcoding gap		 Scinax	rostratus            	Barcoding gap				
+ Isthmohyla	picadoi           	Barcoding gap		 Hyloscirtus	lascinius        	Barcoding gap		 Scinax	ruber                	Overlapping barcode				
+ Isthmohyla	pseudopuma        	Barcoding gap		 Hyloscirtus	lindae           	Barcoding gap		 Scinax	squalirostris        	Barcoding gap				
+ Isthmohyla	rivularis         	Barcoding gap		 Hyloscirtus	mashpi           	Barcoding gap		 Scinax	tsachila             	Barcoding gap				
+ Isthmohyla	tica              	Overlapping barcode		 Hyloscirtus	palmeri          	Barcoding gap		 Scinax	wandae               	Barcoding gap				
+ Isthmohyla	zeteki            	Barcoding gap		 Hyloscirtus	pantostictus     	Barcoding gap		 Scinax	xsignatus            	Overlapping barcode				
+ Itapotihyla	langsdorffii     	Barcoding gap		 Hyloscirtus	phyllognathus    	Barcoding gap		 Smilisca	phaeota            	Barcoding gap				
+ Lysapsus	bolivianus          	Overlapping barcode		 Hyloscirtus	platydactylus    	Barcoding gap		 Smilisca	sila               	Barcoding gap				
+ Lysapsus	caraya              	Barcoding gap		 Hyloscirtus	princecharlesi   	Barcoding gap		 Sphaenorhynchus	caramaschii 	Barcoding gap				
+ Lysapsus	laevis              	Barcoding gap		 Hyloscirtus	psarolaimus      	Barcoding gap		 Sphaenorhynchus	surdus      	Barcoding gap				
+ Lysapsus	limellum            	Overlapping barcode		 Hyloscirtus	ptychodactylus   	Barcoding gap		 Tepuihyla	exophthalma       	Barcoding gap				
+ Megastomatohyla	pellita      	Barcoding gap		 Hyloscirtus	staufferorum     	Barcoding gap		 Trachycephalus	cunauaru     	Overlapping barcode				
+ Myersiohyla	liliae           	Barcoding gap		 Hyloscirtus	tapichalaca      	Barcoding gap		 Trachycephalus	macrotis     	Barcoding gap				
+ Nesorohyla	kanaima           	Barcoding gap		 Hyloscirtus	tigrinus         	Barcoding gap		 Trachycephalus	mesophaeus   	Barcoding gap				
+ Nyctimantis	rugiceps         	Barcoding gap		 Isthmohyla	debilis           	Barcoding gap		 Trachycephalus	quadrangulum 	Barcoding gap				
+ Ololygon	angrensis           	Barcoding gap		 Isthmohyla	graceae           	Barcoding gap		 Trachycephalus	resinifictrix	Barcoding gap				
+ Ololygon	argyreornata        	Barcoding gap		 Isthmohyla	lancasteri        	Barcoding gap		 Trachycephalus	typhonius    	Overlapping barcode				
+ Ololygon	catharinae          	Overlapping barcode		 Isthmohyla	picadoi           	Overlapping barcode		 Xenohyla	truncata	Barcoding gap				
+ Osteocephalus	alboguttatus   	Overlapping barcode		 Isthmohyla	pseudopuma        	Barcoding gap								
+ Osteocephalus	buckleyi       	Overlapping barcode		 Isthmohyla	rivularis         	Barcoding gap								
+ Osteocephalus	cabrerai       	Overlapping barcode		 Isthmohyla	tica              	Overlapping barcode								
+ Osteocephalus	cannatellai    	Overlapping barcode		 Isthmohyla	zeteki            	Barcoding gap								
+ Osteocephalus	castaneicola   	Barcoding gap		 Itapotihyla	langsdorffii     	Barcoding gap								
+ Osteocephalus	deridens       	Barcoding gap		 Julianus	uruguayus           	Barcoding gap								
+ Osteocephalus	festae         	Overlapping barcode		 Lysapsus	bolivianus          	Overlapping barcode								
+ Osteocephalus	fuscifacies    	Barcoding gap		 Lysapsus	caraya              	Barcoding gap								
+ Osteocephalus	helenae        	Overlapping barcode		 Lysapsus	laevis              	Barcoding gap								
+ Osteocephalus	leoniae        	Barcoding gap		 Lysapsus	limellum            	Overlapping barcode								
+ Osteocephalus	leprieurii     	Overlapping barcode		 Megastomatohyla	pellita      	Barcoding gap								
+ Osteocephalus	mimeticus      	Barcoding gap		 Myersiohyla	liliae           	Barcoding gap								
+ Osteocephalus	mutabor        	Barcoding gap		 Nesorohyla	kanaima           	Barcoding gap								
+ Osteocephalus	oophagus       	Overlapping barcode		 Ololygon	agilis              	Barcoding gap								
+ Osteocephalus	planiceps      	Barcoding gap		 Ololygon	argyreornata        	Barcoding gap								
+ Osteocephalus	subtilis       	Barcoding gap		 Ololygon	berthae             	Barcoding gap								
+ Osteocephalus	taurinus       	Overlapping barcode		 Ololygon	faivovichi          	Barcoding gap								
+ Osteocephalus	verruciger     	Overlapping barcode		 Ololygon	longilinea          	Barcoding gap								
+ Osteocephalus	yasuni         	Overlapping barcode		 Ololygon	machadoi            	Barcoding gap								
+ Osteopilus	crucialis         	Barcoding gap		 Ololygon	obtriangulata       	Overlapping barcode								
+ Osteopilus	dominicensis      	Barcoding gap		 Ololygon	peixotoi            	Barcoding gap								
+ Osteopilus	septentrionalis   	Barcoding gap		 Ololygon	perpusilla          	Overlapping barcode								
+ Osteopilus	vastus            	Barcoding gap		 Ololygon	strigilata          	Barcoding gap								
+ Phyllodytes	luteolus         	Barcoding gap		 Osteocephalus	buckleyi       	Overlapping barcode								
+ Phytotriades	auratus         	Barcoding gap		 Osteocephalus	cabrerai       	Overlapping barcode								
+ Plectrohyla	glandulosa       	Barcoding gap		 Osteocephalus	cannatellai    	Barcoding gap								
+ Plectrohyla	guatemalensis    	Barcoding gap		 Osteocephalus	castaneicola   	Barcoding gap								
+ Pseudacris	brachyphona       	Overlapping barcode		 Osteocephalus	deridens       	Barcoding gap								
+ Pseudacris	brimleyi          	Overlapping barcode		 Osteocephalus	fuscifacies    	Barcoding gap								
+ Pseudacris	cadaverina        	Barcoding gap		 Osteocephalus	helenae        	Overlapping barcode								
+ Pseudacris	clarkii           	Overlapping barcode		 Osteocephalus	heyeri         	Barcoding gap								
+ Pseudacris	crucifer          	Barcoding gap		 Osteocephalus	leoniae        	Overlapping barcode								
+ Pseudacris	feriarum          	Overlapping barcode		 Osteocephalus	leprieurii     	Overlapping barcode								
+ Pseudacris	illinoensis       	Overlapping barcode		 Osteocephalus	mimeticus      	Barcoding gap								
+ Pseudacris	kalmi             	Overlapping barcode		 Osteocephalus	oophagus       	Overlapping barcode								
+ Pseudacris	maculata          	Overlapping barcode		 Osteocephalus	planiceps      	Overlapping barcode								
+ Pseudacris	nigrita           	Overlapping barcode		 Osteocephalus	taurinus       	Overlapping barcode								
+ Pseudacris	ocularis          	Barcoding gap		 Osteocephalus	verruciger     	Overlapping barcode								
+ Pseudacris	ornata            	Barcoding gap		 Osteocephalus	yasuni         	Barcoding gap								
+ Pseudacris	regilla           	Barcoding gap		 Osteopilus	septentrionalis   	Barcoding gap								
+ Pseudacris	streckeri         	Overlapping barcode		 Phasmahyla	guttata           	Barcoding gap								
+ Pseudacris	triseriata        	Overlapping barcode		 Phasmahyla	lisbella          	Barcoding gap								
+ Pseudis	bolbodactyla         	Barcoding gap		 Phyllodytes	luteolus         	Barcoding gap								
+ Pseudis	cardosoi             	Overlapping barcode		 Phyllodytes	praeceptor       	Barcoding gap								
+ Pseudis	fusca                	Barcoding gap		 Phytotriades	auratus         	Barcoding gap								
+ Pseudis	minuta               	Overlapping barcode		 Pseudacris	brachyphona       	Overlapping barcode								
+ Pseudis	paradoxa             	Barcoding gap		 Pseudacris	brimleyi          	Overlapping barcode								
+ Pseudis	tocantins            	Barcoding gap		 Pseudacris	cadaverina        	Barcoding gap								
+ Ptychohyla	dendrophasma      	Barcoding gap		 Pseudacris	clarkii           	Overlapping barcode								
+ Ptychohyla	euthysanota       	Overlapping barcode		 Pseudacris	crucifer          	Barcoding gap								
+ Ptychohyla	hypomykter        	Overlapping barcode		 Pseudacris	feriarum          	Overlapping barcode								
+ Ptychohyla	leonhardschultzei 	Barcoding gap		 Pseudacris	illinoensis       	Overlapping barcode								
+ Ptychohyla	macrotympanum     	Barcoding gap		 Pseudacris	kalmi             	Overlapping barcode								
+ Ptychohyla	salvadorensis     	Barcoding gap		 Pseudacris	maculata          	Overlapping barcode								
+ Ptychohyla	zophodes          	Barcoding gap		 Pseudacris	nigrita           	Overlapping barcode								
+ Quilticohyla	sanctaecrucis   	Barcoding gap		 Pseudacris	ocularis          	Barcoding gap								
+ Rheohyla	miotympanum         	Barcoding gap		 Pseudacris	ornata            	Barcoding gap								
+ Sarcohyla	cyclada            	Barcoding gap		 Pseudacris	regilla           	Overlapping barcode								
+ Sarcohyla	pentheter          	Barcoding gap		 Pseudacris	streckeri         	Overlapping barcode								
+ Scarthyla	goinorum           	Barcoding gap		 Pseudacris	triseriata        	Overlapping barcode								
+ Scinax	elaeochroa            	Barcoding gap		 Pseudis	bolbodactyla         	Barcoding gap								
+ Scinax	eurydice              	Barcoding gap		 Pseudis	cardosoi             	Overlapping barcode								
+ Scinax	funereus              	Barcoding gap		 Pseudis	fusca                	Barcoding gap								
+ Scinax	fuscovarius           	Barcoding gap		 Pseudis	minuta               	Overlapping barcode								
+ Scinax	garbei                	Barcoding gap		 Pseudis	paradoxa             	Overlapping barcode								
+ Scinax	hayii                 	Barcoding gap		 Pseudis	tocantins            	Barcoding gap								
+ Scinax	quinquefasciatus      	Barcoding gap		 Ptychohyla	euthysanota       	Overlapping barcode								
+ Scinax	ruber                 	Barcoding gap		 Ptychohyla	hypomykter        	Overlapping barcode								
+ Scinax	tsachila              	Barcoding gap		 Ptychohyla	leonhardschultzei 	Barcoding gap								
+ Scinax	tymbamirim            	Barcoding gap		 Ptychohyla	macrotympanum     	Overlapping barcode								
+ Smilisca	baudinii            	Barcoding gap		 Ptychohyla	salvadorensis     	Barcoding gap								
+ Smilisca	cyanosticta         	Barcoding gap		 Quilticohyla	sanctaecrucis   	Barcoding gap								
+ Smilisca	fodiens             	Barcoding gap		 Sarcohyla	pentheter          	Barcoding gap								
+ Smilisca	phaeota             	Overlapping barcode		 Scinax	acuminatus            	Barcoding gap								
+ Smilisca	puma                	Barcoding gap		 Scinax	chiquitanus           	Barcoding gap								
+ Sphaenorhynchus	botocudo     	Barcoding gap		 Scinax	crospedospilus        	Barcoding gap								
+ Sphaenorhynchus	cammaeus     	Barcoding gap		 Scinax	cruentomma            	Overlapping barcode								
+ Sphaenorhynchus	caramaschii  	Barcoding gap		 Scinax	curicica              	Barcoding gap								
+ Sphaenorhynchus	carneus      	Barcoding gap		 Scinax	eurydice              	Barcoding gap								
+ Sphaenorhynchus	dorisae      	Barcoding gap		 Scinax	funereus              	Barcoding gap								
+ Sphaenorhynchus	lacteus      	Barcoding gap		 Scinax	fuscomarginatus       	Overlapping barcode								
+ Sphaenorhynchus	pauloalvini  	Barcoding gap		 Scinax	fuscovarius           	Overlapping barcode								
+ Sphaenorhynchus	platycephalus	Barcoding gap		 Scinax	garbei                	Overlapping barcode								
+ Sphaenorhynchus	prasinus     	Barcoding gap		 Scinax	iquitorum             	Barcoding gap								
+ Sphaenorhynchus	surdus       	Barcoding gap		 Scinax	madeirae              	Overlapping barcode								
+ Tepuihyla	edelcae            	Overlapping barcode		 Scinax	nasicus               	Overlapping barcode								
+ Tepuihyla	exophthalma        	Barcoding gap		 Scinax	nebulosus             	Overlapping barcode								
+ Tepuihyla	rodriguezi         	Overlapping barcode		 Scinax	perereca              	Barcoding gap								
+ Tepuihyla	tuberculosa        	Barcoding gap		 Scinax	proboscideus          	Barcoding gap								
+ Tepuihyla	warreni            	Barcoding gap		 Scinax	rostratus             	Barcoding gap								
+ Tlalocohyla	picta            	Barcoding gap		 Scinax	ruber                 	Overlapping barcode								
+ Tlalocohyla	smithii          	Barcoding gap		 Scinax	squalirostris         	Overlapping barcode								
+ Trachycephalus	coriaceus     	Barcoding gap		 Scinax	wandae                	Overlapping barcode								
+ Trachycephalus	cunauaru      	Overlapping barcode		 Smilisca	baudinii            	Barcoding gap								
+ Trachycephalus	jordani       	Barcoding gap		 Smilisca	cyanosticta         	Barcoding gap								
+ Trachycephalus	macrotis      	Overlapping barcode		 Smilisca	fodiens             	Barcoding gap								
+ Trachycephalus	mesophaeus    	Barcoding gap		 Smilisca	phaeota             	Overlapping barcode								
+ Trachycephalus	quadrangulum  	Overlapping barcode		 Smilisca	sila                	Barcoding gap								
+ Trachycephalus	resinifictrix 	Overlapping barcode		 Sphaenorhynchus	botocudo     	Barcoding gap								
+ Trachycephalus	typhonius     	Overlapping barcode		 Sphaenorhynchus	cammaeus     	Barcoding gap								
+ Triprion	petasatus           	Barcoding gap		 Sphaenorhynchus	canga        	Barcoding gap								
+ Triprion	spatulatus          	Barcoding gap		 Sphaenorhynchus	caramaschii  	Barcoding gap								
+ Triprion	spinosus	Barcoding gap		 Sphaenorhynchus	carneus      	Barcoding gap								
+				 Sphaenorhynchus	dorisae      	Barcoding gap								
+				 Sphaenorhynchus	lacteus      	Barcoding gap								
+				 Sphaenorhynchus	pauloalvini  	Barcoding gap								
+				 Sphaenorhynchus	platycephalus	Barcoding gap								
+				 Sphaenorhynchus	prasinus     	Barcoding gap								
+				 Sphaenorhynchus	surdus       	Barcoding gap								
+				 Tepuihyla	edelcae            	Overlapping barcode								
+				 Tepuihyla	exophthalma        	Barcoding gap								
+				 Tepuihyla	obscura            	Overlapping barcode								
+				 Tepuihyla	rodriguezi         	Overlapping barcode								
+				 Tepuihyla	warreni            	Barcoding gap								
+				 Tlalocohyla	picta            	Barcoding gap								
+				 Trachycephalus	jordani       	Barcoding gap								
+				 Trachycephalus	resinifictrix 	Overlapping barcode								
+				 Trachycephalus	typhonius     	Overlapping barcode								
+				 Triprion	petasatus           	Barcoding gap								
+				 Triprion	spinosus	Barcoding gap								
